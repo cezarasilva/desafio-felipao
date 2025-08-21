@@ -58,5 +58,5 @@ for (let pessoa of pessoas) {
             break;
     }
 
-    console.log(`Você ${pessoa.nome} é de nível ${nivel}`);
+    console.log(`O Herói de nome: ${pessoa.nome} está no nível de ${nivel}`);
 }
